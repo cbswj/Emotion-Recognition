@@ -8,6 +8,6 @@ Our Human face is having a mixed emotions so we are to demonstrate the probabili
 # Dataset:
 I have used [this]kaggle and Nota dataset
 
--test accuracy: 66%
+-test accuracy: 68.8%
 
 
